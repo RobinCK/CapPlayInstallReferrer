@@ -1,3 +1,3 @@
 export interface CapPlayInstallReferrerPlugin {
-  echo(options: { value: string }): Promise<{ value: string }>;
+  GetReferrer(): Promise<any>;
 }
