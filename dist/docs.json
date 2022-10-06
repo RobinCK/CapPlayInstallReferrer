@@ -1,0 +1,25 @@
+{
+  "api": {
+    "name": "CapPlayInstallReferrerPlugin",
+    "slug": "capplayinstallreferrerplugin",
+    "docs": "",
+    "tags": [],
+    "methods": [
+      {
+        "name": "GetReferrer",
+        "signature": "() => Promise<any>",
+        "parameters": [],
+        "returns": "Promise<any>",
+        "tags": [],
+        "docs": "",
+        "complexTypes": [],
+        "slug": "getreferrer"
+      }
+    ],
+    "properties": []
+  },
+  "interfaces": [],
+  "enums": [],
+  "typeAliases": [],
+  "pluginConfigs": []
+}
